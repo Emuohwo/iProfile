@@ -1,17 +1,17 @@
 export const products = [
   {
     id: 1,
-    img: "",
+    img: "/images/oguwa.png",
     link: "#",
   },
   {
     id: 2,
-    img: "",
+    img: "/images/koshuinu.png",
     link: "#",
   },
   {
     id: 3,
-    img: "",
+    img: "/images/frontcacovid.png",
     link: "#",
   },
   {
